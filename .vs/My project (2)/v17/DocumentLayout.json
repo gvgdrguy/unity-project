@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\progs\\My project (2)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|d:\\progs\\my project (2)\\assets\\scripts\\car ai control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\car ai control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|D:\\progs\\My project (2)\\assets\\scripts\\car controls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\car controls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\progs\\My project (2)\\assets\\cardriverai\\scripts\\caraitargetmouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\cardriverai\\scripts\\caraitargetmouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\progs\\My project (2)\\assets\\cardriverai\\scripts\\cameratarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\cardriverai\\scripts\\cameratarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\progs\\My project (2)\\assets\\cardriverai\\scripts\\cardriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\cardriverai\\scripts\\cardriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\progs\\My project (2)\\Assets\\CarDriverAI\\Scripts\\CarDriverAI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\CarDriverAI\\Scripts\\CarDriverAI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\progs\\My project (2)\\Assets\\PROMETEO - Car Controller\\Scripts\\PrometeoCarController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\PROMETEO - Car Controller\\Scripts\\PrometeoCarController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "car ai control.cs",
+              "DocumentMoniker": "D:\\progs\\My project (2)\\Assets\\scripts\\car ai control.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\car ai control.cs",
+              "ToolTip": "D:\\progs\\My project (2)\\Assets\\scripts\\car ai control.cs",
+              "RelativeToolTip": "Assets\\scripts\\car ai control.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwBYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T16:40:44.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "car controls.cs",
+              "DocumentMoniker": "D:\\progs\\My project (2)\\Assets\\scripts\\car controls.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\car controls.cs",
+              "ToolTip": "D:\\progs\\My project (2)\\Assets\\scripts\\car controls.cs",
+              "RelativeToolTip": "Assets\\scripts\\car controls.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAYwAoAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T07:54:41.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarAITargetMouse.cs",
+              "DocumentMoniker": "D:\\progs\\My project (2)\\Assets\\CarDriverAI\\Scripts\\CarAITargetMouse.cs",
+              "RelativeDocumentMoniker": "Assets\\CarDriverAI\\Scripts\\CarAITargetMouse.cs",
+              "ToolTip": "D:\\progs\\My project (2)\\Assets\\CarDriverAI\\Scripts\\CarAITargetMouse.cs",
+              "RelativeToolTip": "Assets\\CarDriverAI\\Scripts\\CarAITargetMouse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T06:51:00.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CameraTarget.cs",
+              "DocumentMoniker": "D:\\progs\\My project (2)\\Assets\\CarDriverAI\\Scripts\\CameraTarget.cs",
+              "RelativeDocumentMoniker": "Assets\\CarDriverAI\\Scripts\\CameraTarget.cs",
+              "ToolTip": "D:\\progs\\My project (2)\\Assets\\CarDriverAI\\Scripts\\CameraTarget.cs",
+              "RelativeToolTip": "Assets\\CarDriverAI\\Scripts\\CameraTarget.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T06:50:56.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarDriver.cs",
+              "DocumentMoniker": "D:\\progs\\My project (2)\\Assets\\CarDriverAI\\Scripts\\CarDriver.cs",
+              "RelativeDocumentMoniker": "Assets\\CarDriverAI\\Scripts\\CarDriver.cs",
+              "ToolTip": "D:\\progs\\My project (2)\\Assets\\CarDriverAI\\Scripts\\CarDriver.cs",
+              "RelativeToolTip": "Assets\\CarDriverAI\\Scripts\\CarDriver.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T06:50:45.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarDriverAI.cs",
+              "DocumentMoniker": "D:\\progs\\My project (2)\\Assets\\CarDriverAI\\Scripts\\CarDriverAI.cs",
+              "RelativeDocumentMoniker": "Assets\\CarDriverAI\\Scripts\\CarDriverAI.cs",
+              "ToolTip": "D:\\progs\\My project (2)\\Assets\\CarDriverAI\\Scripts\\CarDriverAI.cs",
+              "RelativeToolTip": "Assets\\CarDriverAI\\Scripts\\CarDriverAI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T06:18:11.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PrometeoCarController.cs",
+              "DocumentMoniker": "D:\\progs\\My project (2)\\Assets\\PROMETEO - Car Controller\\Scripts\\PrometeoCarController.cs",
+              "RelativeDocumentMoniker": "Assets\\PROMETEO - Car Controller\\Scripts\\PrometeoCarController.cs",
+              "ToolTip": "D:\\progs\\My project (2)\\Assets\\PROMETEO - Car Controller\\Scripts\\PrometeoCarController.cs",
+              "RelativeToolTip": "Assets\\PROMETEO - Car Controller\\Scripts\\PrometeoCarController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAwEABAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T06:18:22.118Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
